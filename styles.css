@@ -1,0 +1,46 @@
+body {
+    
+    background-image: url("image/istockphoto-937920714-612x612.jpg");
+    background-size: cover;
+}
+
+
+#title {
+
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: #020202;
+    font-size: 66px;
+    font-weight: 850;
+    text-align: left;
+    width: 36%;
+    margin: 45px;
+    max-width: 100%;
+    
+}
+
+#subtitle {
+    
+    font-family: "open sans", sans-serif;
+    color: #020202;
+    margin: 45px;
+    width: 22%;
+    max-width: 100%;
+    font-weight: 600;
+    font-size: 28px;
+}
+.underline {
+    border-bottom: 4px solid #0ea5e9;
+}
+
+#button {
+    margin-left: 45px ;
+    padding: 12px 25px;
+    color: white;
+    background-color: #0ea5e9;
+    font-family: "open sans", sans-serif;
+    font-weight: 650;
+    font-size: 20px;
+    border: none;
+}
+
